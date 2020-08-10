@@ -29,3 +29,4 @@ _HTML, CSS, jQuery_
 
 *Copyright (c)2020 _Jaki Widby, Ophelia Swen_
 
+This software is licensed under the MIT license. 
